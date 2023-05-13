@@ -1,5 +1,10 @@
 # 〃〃 ⧸ 琴葉葵
 
+## Links
+
+- [YouTube]()
+- [niconico]()
+
 ## Download
 
 - [Lyrics](https://raw.githubusercontent.com/intsuc/works/main/20230508/lyrics.txt)

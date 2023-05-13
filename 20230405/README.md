@@ -1,5 +1,10 @@
 # A/A ⧸ 琴葉茜・琴葉葵
 
+## Links
+
+- [YouTube](https://youtu.be/Mo3accrsa7U)
+- [niconico](https://www.nicovideo.jp/watch/sm42128563)
+
 ## Download
 
 - [Lyrics](https://raw.githubusercontent.com/intsuc/works/main/20230405/lyrics.txt)
